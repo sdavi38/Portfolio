@@ -1,7 +1,7 @@
 /* eslint-disable react/jsx-no-comment-textnodes */
 
-import { Container, TextContainer, InfosContainer, CodeItem } from './styles';
 import picture from '../../assets/avatar.png';
+import { CodeItem, Container, InfosContainer, TextContainer } from './styles';
 
 function HomeHero() {
   return (
@@ -23,7 +23,14 @@ function HomeHero() {
               Sobrenome: <span className="blue">Bernardo</span>
             </div>
             <div>
-              Idade: <span className="blue">38</span>
+              Idade: <span className="blue">39</span>
+            </div>
+            {'\u007D'}
+            <div>
+              Descrição:{' '}
+              <span className="blue">
+                Sou apaixonado por tecnologia e inovação{' '}
+              </span>
             </div>
             {'\u007D'}
           </CodeItem>
@@ -37,7 +44,7 @@ function HomeHero() {
             </div>
             <div>
               Estudando:
-              <span className="blue">ReactJs, NextJs, NodeJS</span>
+              <span className="blue"> ReactJs, NextJs, NodeJS, Postgres</span>
             </div>
             {'\u007D'}
           </CodeItem>

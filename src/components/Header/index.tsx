@@ -1,9 +1,8 @@
 import {
-  AiOutlineTwitter,
+  AiFillLinkedin,
   AiOutlineGithub,
-  AiFillLinkedin
+  AiOutlineTwitter
 } from 'react-icons/ai';
-
 import NavLink from './NavLink';
 import { Container, NavBar } from './styles';
 
@@ -14,7 +13,7 @@ export default function Header() {
   return (
     <Container>
       <section>
-        <p>Siga-nos</p>
+        <p>Minhas Redes</p>
         <AiOutlineTwitter
           onClick={() => handleRedirect('https://twitter.com')}
         />
