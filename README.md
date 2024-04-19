@@ -41,7 +41,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ### David Bernardo - **sdavi2840@gmail.com**
 
-[Github](https://github.com/sdavi38) - **https://github.com/renanlido** </br>
+[Github](https://github.com/sdavi38) - **https://github.com/sdavi38** </br>
 
 
 </br></br>
