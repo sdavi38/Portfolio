@@ -1,5 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub last commit](https://img.shields.io/badge/last%20comit-may%202021-orange)](https://github.com/renanlido/ignews/commits)
+[![GitHub last commit](https://img.shields.io/badge/last%20comit-may%202021-orange)](https://github.com/sdavi38/ignews/commits)
 [![Next.js](https://img.shields.io/badge/NextJs-blue)](https://nextjs.org/)
 [![React.js](https://img.shields.io/badge/-ReactJs-blue)](https://pt-br.reactjs.org/)
 [![Typescript](https://img.shields.io/badge/-Typescript-blue)](https://www.typescriptlang.org/)
@@ -15,9 +15,8 @@
 
 # <strong>About the project</strong>
 
-This is a template for initial configuration for projects based in Next Js.
+Presentation of the latest work carried out.
 
-Use and abuse!
 
 </br>
 
@@ -40,10 +39,10 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 # **Contact**
 
-### Renan Oliveira - **renanlido@yahoo.com.br**
+### David Bernardo - **sdavi2840@gmail.com**
 
-[Github](https://github.com/renanlido) - **https://github.com/renanlido** </br>
-[Linkedin](https://www.linkedin.com/in/renanlido/) - **https://www.linkedin.com/in/renanlido/**
+[Github](https://github.com/sdavi38) - **https://github.com/renanlido** </br>
+
 
 </br></br>
 Thanks for coming! 😊🤗
